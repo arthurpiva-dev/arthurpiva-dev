@@ -30,17 +30,14 @@ Tenho interesse em continuar aprendendo, desenvolver projetos práticos e aprimo
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,html,css,js,py,cpp" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Delphi-E62431?style=for-the-badge&logo=embarcadero&logoColor=white" />
+  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/delphi/delphi-original.svg" />
 </p>
 
 ### Banco de dados
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 </p>
 
 ### Ferramentas e ambientes de desenvolvimento
