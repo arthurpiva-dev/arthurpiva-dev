@@ -78,7 +78,7 @@ Sistema de gestão de estoque simplificado, desenvolvido com o objetivo de auxil
 ## 📫 Vamos nos conectar?
 
 <p align="left">
-  <a href="www.linkedin.com/in/arthur-piva-da-silva-661447431">
+  <a href="www.linkedin.com/in/arthur-piva-da-silva">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/arthurpiva__?obrf=MWFlb2U0ajF4MHFhMg==">
